@@ -43,7 +43,7 @@
 }
 
 - (NSArray*)uniq {
-    return [[NSSet setWithArray:self] allObjects];
+  return [[NSSet setWithArray:self] allObjects];
 }
 
 @end
